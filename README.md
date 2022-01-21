@@ -1,4 +1,4 @@
-# HandyESP
+# Handy-ESP
 
 The goal of this project is to turn an ESP32 into a handheld device with basic functions. Functions such as text editor, image viewer, calculator, etc.
 The device uses an SD CARD for storage and a 2.8" 240x160 pixel TFT Display which is controlled by an ILI9341. Both these devices are SPI slaves to the ESP32.
